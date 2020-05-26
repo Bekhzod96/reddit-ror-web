@@ -1,24 +1,43 @@
 # README
+In this project, We’ll get to spend some quality time with models. We will be doing some data modeling and putting your active record knowledge to practice by building your own light weight Reddit clone.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here is structure of the relational database that was created in this project
 
-Things you may want to cover:
+![Preview](app/assets/images/Screenshot.png?raw=true 'Title')
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Rails 6.0.3
 
-* Configuration
+## Getting start
 
-* Database creation
+In order to start with the project:
 
-* Database initialization
+1. You need to have Rails environment installed. [Click here for instructions](https://guides.rubyonrails.org/getting_started.html)
+2. Clone [this repository :blue_book:](https://github.com/Bekhzod96/micro-reddit.git)
+3. Run the rails server
+    - rails server
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Bekhzod Akhrorov**
 
-* Deployment instructions
+- Github:[@Bekhzod96](https://github.com/Bekhzod96)
+- Twitter: [ @Begzod](https://twitter.com/25d47e8987f740b)
+- Linkedin:[@Bekhzod AKhrorov](https://www.linkedin.com/in/bekhzod-akhrorov/)
 
-* ...
+
+👤 **Javier Botero**
+
+- Github: [@Javierbotero](https://github.com/javierbotero)
+- Twitter: [@@Javierbotero1](https://twitter.com/JavierBotero1)
+- Linkedin: [Javierbotero](https://www.linkedin.com/in/javier-botero-044686155/)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
