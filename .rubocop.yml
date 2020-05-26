@@ -2,8 +2,10 @@ AllCops:
   Exclude:
     - "db/**/*"
     - "bin/*" 
+    - "test/*" 
     - "config/**/*"
     - "Guardfile"
+    - "Gemfile"
     - "Rakefile"
     - "README.md"
     - "node_modules/**/*"
