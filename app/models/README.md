@@ -5,7 +5,18 @@ Here is structure of the relational database that was created in this project
 
 ![Preview](app/assets/images/Screenshot.png?raw=true 'Title')
 
+## Built With
 
+- Rails 6.0.3
+
+## Getting start
+
+In order to start with the project:
+
+1. You need to have Rails environment installed. [Click here for instructions](https://guides.rubyonrails.org/getting_started.html)
+2. Clone [this repository :blue_book:](https://github.com/Bekhzod96/micro-reddit.git)
+3. Run the rails server
+    - rails server
 
 ## Authors
 
