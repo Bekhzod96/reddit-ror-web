@@ -29,9 +29,9 @@ In order to start with the project:
 
 👤 **Javier Botero**
 
-- Github: [@githubhandle](https://github.com/javierbotero)
-- Twitter: [@twitterhandle](https://twitter.com/JavierBotero1)
-- Linkedin: [linkedin](https://www.linkedin.com/in/javier-botero-044686155/)
+- Github: [@Javierbotero](https://github.com/javierbotero)
+- Twitter: [@@Javierbotero1](https://twitter.com/JavierBotero1)
+- Linkedin: [Javierbotero](https://www.linkedin.com/in/javier-botero-044686155/)
 
 
 ## 🤝 Contributing
